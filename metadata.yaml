@@ -1,0 +1,46 @@
+_repo: Abraham-Lincoln-and-the-Union--A-Chronicle-of-the-Embattled-North_2836
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stephenson, Nathaniel W. (Nathaniel Wright)
+    alias: Stephenson, Nathaniel Wright
+    birthdate: 1867
+    deathdate: 1935
+    gutenberg_agent_id: '700'
+    url: http://www.gutenberg.org/2009/agents/700
+description: 'BCR''s Shelf2Life American Civil War Collection is a unique and exciting
+  collection of pre-1923 titles focusing on the American Civil War and the people
+  and events surrounding it. From memoirs and biographies of notable military figures
+  to firsthand accounts of famous battles and in-depth discussions of slavery, this
+  collection is a remarkable opportunity for scholars and historians to rediscover
+  the experience and impact of the Civil War. The volumes contained in the collection
+  were all written within 60 years of the end of the war, which means that most authors
+  had living memory of it and were facing the effects of the war while writing. These
+  firsthand accounts allow the modern reader to more fully understand the culture
+  of both the Union and Confederacy, the politics that governed the escalation and
+  end of the war, the personal experience of life during the Civil War, and the most
+  difficult and polarizing question in the history of the United States: slavery.
+  The American Civil War Collection allows new readers access to the contemporary
+  arguments and accounts surrounding the war, and is a vital new tool in understanding
+  this important and pivotal chapter in American history.'
+gutenberg_bookshelf:
+- Children's History
+- US Civil War
+- United States
+gutenberg_issued: '2001-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2836'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Lincoln, Abraham, 1809-1865'
+- !lcc 'E456'
+- !lcsh 'United States -- History -- Civil War, 1861-1865'
+- !lcsh 'United States -- Politics and government -- 1861-1865'
+- !lcc 'E151'
+- GITenberg
+title: 'Abraham Lincoln and the Union: A Chronicle of the Embattled North'
+url: http://www.gutenberg.org/ebooks/2836
