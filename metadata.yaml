@@ -1,5 +1,8 @@
 _repo: Abraham-Lincoln-and-the-Union--A-Chronicle-of-the-Embattled-North_2836
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stephenson, Nathaniel W. (Nathaniel Wright)
@@ -23,6 +26,8 @@ description: 'BCR''s Shelf2Life American Civil War Collection is a unique and ex
   The American Civil War Collection allows new readers access to the contemporary
   arguments and accounts surrounding the war, and is a vital new tool in understanding
   this important and pivotal chapter in American history.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2836#Abraham-Lincoln-and-the-Union--A-Chronicle-of-the-Embattled-North
 gutenberg_bookshelf:
 - Children's History
 - US Civil War
